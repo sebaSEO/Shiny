@@ -1,0 +1,12 @@
+name: HeatMap
+title: HeatMap
+username:
+account: sebaseo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2890195
+bundleId: 3684923
+url: https://sebaseo.shinyapps.io/HeatMap/
+when: 1601415331.7802
+asMultiple: FALSE
+asStatic: FALSE
